@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mazhar</h1>
-<h3 align="center">A passionate backend/MERN stack developer from Eqypt</h3>
+<h3 align="center">A passionate Web developer from Eqypt</h3>
 
 - 📫 How to reach me **mostafaelbanna1000@gmail.com**
 
